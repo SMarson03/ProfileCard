@@ -1,0 +1,52 @@
+img {
+    border-radius: 50px;
+    width:200px;
+    height;200px;
+    object-fit: cover;
+}
+
+body{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    background-color: azure;
+    margin:0; 
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+/* targeting my profile card */
+.profile-card{
+border-radius: 22px;
+background-color: rgb(236, 169, 236);
+box-shadow: indigo 0px 0px 1px 5px
+}
+
+.link{
+    display: inline-block;  
+    padding: 10px 20px;
+    margin-top: 15px;
+    text-decoration: none;
+    color: beige;
+    background-color: goldenrod;
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+    color: purple;
+}
+
+p{
+    text-wrap: wrap;
+    color: purple;
+}
+
+.btn{
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 15px;
+    text-decoration: none;
+    color: beige;
+    background-color: goldenrod;
+    border-radius: 5px;
+}
